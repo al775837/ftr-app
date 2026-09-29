@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Food Trailer Rental Control",
+  "short_name": "Food Trailer",
+  "description": "GERSON'S Food Trailer Rental Control",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#d9e2ed",
+  "theme_color": "#087cff",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
